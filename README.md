@@ -1,4 +1,6 @@
 # Computing-Modelling-AC-DC-converter-using-uncontrolled-rectifier-and-DC-DC-chopper
-This is a small project which both I and my friends do in "Power Electronics" class. In this project, we use Matlab to stimulate the result.
+This is a small project which both I and my friends do in "Power Electronics" class. 
 
-The problem, calculation and data are taken from the file Final Report of Power Electronics.docx
+During the period of social distancing brought on by the COVID-19 pandemic, traditional classroom activities, including final examinations, were significantly disrupted. As a result, our lecturer proposed an alternative assessment method by coordinating with the school to replace the standard final exam with a small-scale project that allowed students to apply theoretical knowledge to a practical context. Based on the topics we had studied throughout the Power Electronics course, our lecturer assigned us a relevant and thought-provoking project that aligned closely with the course objectives.
+
+In the document titled Final Report of Power Electronics.docx, the structure of the report is designed to clearly present the problem statement at the beginning, providing readers with a context for the challenge being addressed. This is then followed by a comprehensive solution that includes a detailed system model and simulation. To verify the effectiveness and accuracy of the proposed solution, I utilized MATLAB as the primary tool for conducting simulations and analyzing system performance under various conditions.
